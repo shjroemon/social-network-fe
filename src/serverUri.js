@@ -1,3 +1,3 @@
 export default process.env.NODE_ENV === "development"
   ? "http://localhost:5000"
-  : process.env.SERVER_URI;
+  : "https://social-network-03i4.onrender.com";
